@@ -1,0 +1,5 @@
+pymongo >=4.3.3
+python-dotenv >= 1.0.0
+beautifulsoup4 >= 4.11.2
+requests
+lxml
